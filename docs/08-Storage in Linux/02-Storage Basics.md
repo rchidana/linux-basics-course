@@ -12,7 +12,7 @@
   #### List all Block devices
   
   - Block devices are special files that refer to or represent a device (which could be anything from a hard drive to a USB drive). So naturally, there are command line tools that help you with your block devices-related work.
-  - Major Number is used to identigy the type of block device, value 8 represent a SCSI device starts with SD.
+  - Major Number is used to identify the type of block device, value 8 represent a SCSI device starts with SD.
   - Minor Number is uset to distuinguish individual, physical or logical devices.
 
      ```
